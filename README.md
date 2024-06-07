@@ -19,4 +19,10 @@ Introducing the Withered Potato Mod, a thrilling new addition to your Minecraft 
 - Strategically use it to farm Withers by preparing for the potential spawn.
 - Leverage the guaranteed drop from withered Zombies and Husks to gather more Withering Potatoes efficiently.
 - Keep an eye on your surroundings and store Withered Potatoes safely to prevent foxes from consuming them and causing unexpected chaos.
+## Installation
+To install the Withered Potato Mod, follow these steps:
+
+1. Download the latest release from the [Releases](https://modrinth.com/mod/witheredpotato) page.
+2. Place the downloaded JAR file into the "mods" folder of your Minecraft server or client.
+3. Launch Minecraft and enjoy the thrilling experience of the Withered Potato Mod!
 ### Embrace the danger and excitement of the Withered Potato Mod, and transform your Minecraft adventures with this unpredictable new item!
